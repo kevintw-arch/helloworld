@@ -1,5 +1,7 @@
 # GEMINI.md
 
+請一律使用正體中文互動
+
 ## 專案概觀
 
 這是一個名為 "Hello" 的簡單 "Hello World" Java 專案。它使用 Gradle 建置，並使用 JUnit 5 進行測試。主要應用程式進入點是 `org.example.Main` 類別中的 `main` 方法。
